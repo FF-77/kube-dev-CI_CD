@@ -1,0 +1,2 @@
+terraform.tfvars
+kube_config.yaml
