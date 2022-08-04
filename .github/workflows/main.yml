@@ -53,4 +53,4 @@ jobs:
         with:
           images: dockercriado/kube-news:${{github.run_number}}
           manifests: |
-            k8s/deployment.yaml
+            kube-news/k8s/deployment.yaml
